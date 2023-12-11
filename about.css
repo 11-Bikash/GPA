@@ -1,0 +1,16 @@
+*{
+    /* color: #000; */
+ }
+ body{
+     margin: 0;
+     padding: 0;
+ }
+.A img{
+    width: 100%;
+}
+.A h2{
+    text-align: center;
+}
+.A p{
+    text-align: justify;
+}
