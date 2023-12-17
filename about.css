@@ -5,12 +5,9 @@
      margin: 0;
      padding: 0;
  }
-.A img{
-    width: 100%;
-}
-.A h2{
-    text-align: center;
-}
-.A p{
+ .AA{
+    margin-bottom: 30px;
+ } 
+.AA p{
     text-align: justify;
 }

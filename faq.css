@@ -1,0 +1,16 @@
+hr{
+    margin: 0;
+}
+h6{
+    color: #B75651;
+    padding-top: 5px;
+}
+.fbox{
+    background:#FFF;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.4);
+}
+.fbox:hover{
+    box-shadow: 0px 11px 17px 0px rgba(0,0,0,0.4);
+}
