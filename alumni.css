@@ -1,0 +1,22 @@
+.A p {
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background: #DC3545;
+    display: block;
+    width: 20%;
+    margin-left: 40%;
+}
+.A a{
+    text-decoration: none;
+    color: #FFF;
+}
+.A p:hover{
+    background: #BB2D3B;
+}
+.table table{
+    width: 100%;
+}
+.table table tr{
+    border: solid 1px #000;
+}

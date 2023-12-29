@@ -28,18 +28,13 @@
 .coursearea{
     background: url('course.png') fixed;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
+    padding-top: 30px;
 }   
 .box{
     height: 300px;
     background: #FFF;
-    margin-right: 20px;
-}
-.box1{
-    margin-left: -30px;
-}
-.box4{
-    margin-right: -90px;
+    position: relative;
 }
 .course1 p{
     text-align: center;
@@ -57,6 +52,7 @@
 }
 .coursearea p{
     text-align: center;
+    width: 100%;
     font-size: 20px;
     font-weight: 500;
     margin:0 ;
@@ -73,5 +69,5 @@
     height: 350px;
 }
 .alumni img{
-    margin: 40px 0 0 350px;
+    margin-top: 50px;
 }
